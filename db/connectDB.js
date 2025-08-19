@@ -1,4 +1,5 @@
 const mongoose = require('mongoose')
+require('dotenv')
 
 // const Live_url = "mongodb+srv://bookreview123:Suraj123@cluster1.ilco5g2.mongodb.net/bookreview?retryWrites=true&w=majority&appName=Cluster1"
 
