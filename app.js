@@ -28,4 +28,4 @@ app.use(express.json())
 
 
 app.use('/api',web)
-app.listen(process.env.PORT,console.log("server is running on port 3001"))
+app.listen(process.env.PORT,console.log("server is running on port 3000"))
